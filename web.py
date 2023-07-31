@@ -60,3 +60,11 @@ st.text_input(label="", placeholder="Add new todo...",
 # pip freeze > requirements.txt to set up the file (it automatically writes the
 # 3rd party packages to the txt file.
 # pip freeze on it's own writes the packages in the command line.
+
+
+## following setting up a streamlit account and linking to github
+# the app is deployed with this link:
+# https://my-todo-web-appg-8p8zuvbye7ponpzsh4ghvb.streamlit.app
+# click on manage app to see errors under the hood directly
+
+# streamlit gives you the deployment facility and cloud server
